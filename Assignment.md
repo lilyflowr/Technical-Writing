@@ -1,4 +1,4 @@
-Beginner's Guide To Using Glasp
+# **Beginner's Guide To Using Glasp**
 
 #
 # **Introduction**
