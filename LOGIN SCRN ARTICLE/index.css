@@ -1,0 +1,49 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   background-color: #9c0355;
+   margin:0;
+   padding:0;
+}
+
+.container {
+    max-width:400px;
+    margin:100px auto;
+    background-color: #dbaec6;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.4);
+}
+
+.container h1{
+    text-align:center;
+    margin-bottom: 20px;
+}
+
+.container input[type="text"],
+.container input[type="password"] {
+    width:100%;
+    padding:10px;
+    margin-bottom:15px;
+    border: 0.1px solid #ccc;
+    border-radius: 15px;
+    box-sizing: border-box;
+}
+
+.container button {
+    width:100%;
+    padding: 10px;
+    background-color:#6f053e;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+/* media queries */
+
+@media (max-width: 480px) {
+    .container{
+        margin-top: 50px;
+    }
+}
+
