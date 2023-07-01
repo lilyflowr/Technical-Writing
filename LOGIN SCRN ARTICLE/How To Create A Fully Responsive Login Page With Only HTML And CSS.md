@@ -1,0 +1,1 @@
+![](https://github.com/lilyflowr/Technical-Writing/blob/main/LOGIN%20SCRN%20ARTICLE/responsive%20html%20and%20css%20login.gif)
