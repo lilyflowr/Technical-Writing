@@ -7,7 +7,7 @@ When carrying out online research, highlighting text and taking notes can be ted
 
 ## **What exactly is Glasp?**
 
-[Glasp](https://glasp.co/) is an open-source browser extension enabling users to highlight text on web pages and save those highlights for future reference. The user-friendly user interface allows users to highlight text and organize their notes easily. With Glasp, users can create an account and link it to the extension, allowing them to save and share their highlights across devices.
+[Glasp](https://glasp.co/) is an open-source browser extension enabling users to highlight text on web pages and save those highlights for future reference. The user-friendly user interface allows users to highlight text and organize notes easily. With Glasp, users can create an account and link it to the extension, allowing them to save and share their highlights across devices.
 
 ## **Benefits of Using Glasp Browser Extension**
 
